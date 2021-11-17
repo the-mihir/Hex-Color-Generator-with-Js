@@ -63,7 +63,19 @@ button#submit {
     }
 
     @media(max-width:480px){
-      #hex-colors h1{font-size: 1.5rem;}
+      .hex_header h1{font-size: 20px;
+        line-height: 25px;
+      }
       
-      #hex-colors h2{font-size: 1.5rem;}
+      .hex_header h2{font-size: 20px;}
+
+      .hex_header h2{
+        margin-top: 40px;
+      }
+
+     
+
+        
+
+       
     }
